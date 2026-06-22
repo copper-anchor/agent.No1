@@ -1,4 +1,4 @@
-<img width="2518" height="1595" alt="屏幕截图 2026-06-22 235817" src="https://github.com/user-attachments/assets/297f3397-afeb-4c81-9349-57a618457bf8" /># agent.No1
+# agent.No1
 ## 项目简介
 基于 AstrBot 搭建的学习辅助 QQ Bot。
 项目主要完成了模型接入、插件配置、知识库接入、服务器部署和日常维护工作。
